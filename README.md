@@ -37,4 +37,4 @@ go run main.go -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](./LICENSE "MIT License")

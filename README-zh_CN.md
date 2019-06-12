@@ -37,4 +37,4 @@ go run main.go -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 
 ## 开源许可证
 
-[MIT](https://choosealicense.com/licenses/mit/ "MIT")
+[MIT License](./LICENSE "MIT License")
