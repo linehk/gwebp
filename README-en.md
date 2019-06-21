@@ -12,27 +12,17 @@ gwebp can recursively convert images in the specified directory into webp of the
 Need to install webp first, such as: `brew install webp`, then:
 
 ```bash
-git clone https://github.com/linehk/gwebp.git
-```
-
-Or:
-
-```bash
-go get -u github.com/linehk/gwebp
+go install github.com/linehk/gwebp
 ```
 
 ## Usages
 
 ```bash
-go run main.go
+gwebp -r='.' -e='jpg' -a='-q 50 -lossless' -k=true
 ```
 
 ```bash
-go run main.go -r='.' -e='jpg' -a='-q 50 -lossless' -k=true
-```
-
-```bash
-go run main.go -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
+gwebp -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 ```
 
 ## License
