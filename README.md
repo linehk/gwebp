@@ -29,7 +29,4 @@ gwebp -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 
 ## 开源许可证
 
-[MIT License](./LICENSE "MIT License")
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flinehk%2Fgwebp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flinehk%2Fgwebp?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flinehk%2Fgwebp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flinehk%2Fgwebp?ref=badge_large)
