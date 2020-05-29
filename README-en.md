@@ -26,6 +26,12 @@ gwebp -r='.' -e='jpg' -a='-q 50 -lossless' -k=true
 gwebp -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 ```
 
+## Contributing
+
+If you feel that there is something to improve my exercise answers, please feel free to launch Pull Request.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flinehk%2Fgwebp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flinehk%2Fgwebp?ref=badge_large)
+[MIT License](./LICENSE "MIT License")
