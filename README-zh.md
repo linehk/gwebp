@@ -4,19 +4,19 @@
 [![codecov](https://codecov.io/gh/linehk/gwebp/branch/master/graph/badge.svg)](https://codecov.io/gh/linehk/gwebp)
 [![Go Report Card](https://goreportcard.com/badge/github.com/linehk/gwebp)](https://goreportcard.com/report/github.com/linehk/gwebp)
 
-English | [简体中文](./README.md "简体中文")
+[English](./README.md "English") | 简体中文
 
-gwebp can recursively convert images in the specified directory into webp of the same name.
+gwebp 可以递归地将指定目录下的图片转换成同名的 webp 格式的图片。
 
-## Installation
+## 安装
 
-Need to install webp first, such as: `brew install webp`, then:
+需要先行安装 webp，如：`brew install webp`，然后：
 
 ```bash
 go install github.com/linehk/gwebp
 ```
 
-## Usages
+## 使用
 
 ```bash
 gwebp -r='.' -e='jpg' -a='-q 50 -lossless' -k=true
@@ -26,12 +26,12 @@ gwebp -r='.' -e='jpg' -a='-q 50 -lossless' -k=true
 gwebp -r='.' -e='png' -a='-sns 70 -f 50 -size 60000' -k=false
 ```
 
-## Contributing
+## 参与贡献
 
-If you feel that there is something to improve my exercise answers, please feel free to launch Pull Request.
+如果你觉得我的参考答案有什么需要改进的地方，欢迎发起 Pull Request。
 
-For major changes, please open an issue first to discuss what you would like to change.
+如果有重大变化，请先打开一个 Issue，讨论您想要改变的内容。
 
-## License
+## 开源许可证
 
 [MIT License](./LICENSE "MIT License")
