@@ -1,7 +1,8 @@
 # gwebp
 
-[![codecov](https://codecov.io/gh/linehk/gwebp/branch/master/graph/badge.svg)](https://codecov.io/gh/linehk/gwebp)
-[![Go Report Card](https://goreportcard.com/badge/github.com/linehk/gwebp)](https://goreportcard.com/report/github.com/linehk/gwebp)
+[![build](https://github.com/linehk/gwebp/actions/workflows/build.yml/badge.svg "build")](https://github.com/linehk/gwebp/actions)
+[![codecov](https://codecov.io/gh/linehk/gwebp/graph/badge.svg "codecov")](https://codecov.io/gh/linehk/gwebp)
+[![go report](https://goreportcard.com/badge/github.com/linehk/gwebp "go report")](https://goreportcard.com/report/github.com/linehk/gwebp)
 
 [English](./README.md "English") | 简体中文
 
